@@ -1,0 +1,6 @@
+[submodule "/home/caleb/.zsh/themes/powerlevel10k"]
+	path = /home/caleb/.zsh/themes/powerlevel10k
+	url = git@github.com:romkatv/powerlevel10k.git
+[submodule "/home/caleb/.zsh/plugins/zsh-syntax-highlighting"]
+	path = /home/caleb/.zsh/plugins/zsh-syntax-highlighting
+	url = git@github.com:zsh-users/zsh-syntax-highlighting.git
